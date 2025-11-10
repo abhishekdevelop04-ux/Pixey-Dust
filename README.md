@@ -3,7 +3,7 @@
 A full-stack Hospital Management System with a React (Vite) frontend and Node/Express + Sequelize backend (MySQL), plus Google Calendar integration.
 
 - Patient and doctor management
-- Appointments and financial tracking dashboard
+- Appointments and financial tracking dashboardadsasasd
 - Google Calendar event creation for appointments
 - WhatsApp chat frontend (planned) for booking appointments via a conversational bot flowsa
 
