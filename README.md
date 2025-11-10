@@ -5,7 +5,7 @@ A full-stack Hospital Management System with a React (Vite) frontend and Node/Ex
 - Patient and doctor management
 - Appointments and financial tracking dashboardadsasasd
 - Google Calendar event creation for appointments
-- WhatsApp chat frontend (planned) for booking appointments via a conversational bot flowsa
+- WhatsApp chat frontend (planned) for booking appointmentsadssad via a conversational bot flowsa
 
 ## Screenshots / Visuals
 
